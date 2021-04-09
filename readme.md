@@ -3,4 +3,4 @@ Zadanie domowe:
 https://wordwall.net/play/14220/931/600
 
 2. Jaka jest kolejność uruchamiania bloków w Javie? Uporządkuj
-https://wordwall.net/pl/resource/14221616
+https://wordwall.net/play/14223/604/400
